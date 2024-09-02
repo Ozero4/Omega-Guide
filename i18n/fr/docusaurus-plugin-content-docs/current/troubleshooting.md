@@ -11,7 +11,7 @@ Cette page liste toutes les erreurs connues que vous pouvez rencontrer en modifi
 ### Écran noir et LED rouge
 
 Tout va bien : un écran noir et une LED rouge signifient que votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. 
-**ATTENTION : Dans ce mode, Si vous faites une mise à jour depuis le site de NumWorks, vous allez faire une réinstallation complète de la calculatrice avec la dernière version du système de gestion de NumWorks. Vous allez alors verrouiller la calculatrice : les installations de Custom Firmwares tels que Omega ou Upsilon seront bloquées.**
+**ATTENTION : Dans ce mode, si vous faites une mise à jour depuis le site de NumWorks, vous allez faire une réinstallation complète de la calculatrice avec la dernière version du système de gestion de NumWorks. Vous allez alors verrouiller la calculatrice : les installations de Custom Firmwares tels que Omega ou Upsilon seront bloquées.**
 
 [Choisissez un OS Custom](/docs/cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un OS Custom compatible, puis installer Epsilon en veillant à ne pas être en mode Recovery)
 
